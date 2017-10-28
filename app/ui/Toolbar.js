@@ -1,14 +1,20 @@
 import React from 'react';
-import { StyleSheet, Text } from 'react-native'
+import { StatusBar, StyleSheet, Text, View } from 'react-native'
 
 export default class Toolbar extends React.Component {
   render() {
     return (
-      <Text
-        style={styles.toolbar}
-      >
-        Institutos Misioneros LSM
-      </Text>
+      <View>
+        <StatusBar
+          backgroundColor="#ff0000"
+          barStyle="light-content"
+        />
+        <Text
+          style={styles.toolbar}
+        >
+          Institutos Misioneros LSM
+        </Text>
+      </View>
     )
   }
 }

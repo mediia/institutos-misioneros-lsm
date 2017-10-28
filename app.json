@@ -1,10 +1,15 @@
 {
-  "androidStatusBarColor": "#334393",
-  "androidStatusBar": {
-    "barStyle": "light-content",
-    "backgroundColor": "#334393"
-  },
   "expo": {
-    "sdkVersion": "21.0.0"
+    "name": "Institutos Misioneros LSM",
+    "icon": "./app/assets/voluntary.png",
+    "version": "1.0.0",
+    "slug": "institutos-misioneros-lsm",
+    "sdkVersion": "21.0.0",
+    "ios": {
+      "bundleIdentifier": "org.mediia.lsm.im"
+    },
+    "android": {
+      "package": "org.mediia.lsm.im"
+    }
   }
 }

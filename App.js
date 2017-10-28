@@ -7,8 +7,6 @@ import Toolbar from './app/ui/Toolbar'
 
 export default class App extends React.Component {
   render() {
-    StatusBar.setBarStyle('light-content', true);
-    StatusBar.setBarStyle('translucent', false);
     return (
       <View
         style={styles.container}
