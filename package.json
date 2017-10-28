@@ -1,6 +1,6 @@
 {
-  "name": "im",
-  "version": "0.1.0",
+  "name": "org.mediia.lsm.im",
+  "version": "1.0.0",
   "private": true,
   "devDependencies": {
     "jest-expo": "^21.0.2",
