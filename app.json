@@ -2,7 +2,7 @@
   "expo": {
     "name": "Institutos Misioneros LSM",
     "icon": "./app/assets/voluntary.png",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "slug": "institutos-misioneros-lsm",
     "sdkVersion": "21.0.0",
     "ios": {
