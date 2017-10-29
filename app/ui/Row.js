@@ -1,36 +1,43 @@
 import React from 'react';
-import { Image, StyleSheet, Text, View } from 'react-native'
+import { Image, Linking, StyleSheet, Text, View } from 'react-native'
 
 import Touchable from '../lib/Touchable'
 import FB from '../lib/FB'
 
 export default class Row extends React.Component {
   render() {
+    var {
+      key,
+      facebook,
+      facebookId,
+      name,
+      web
+    } = this.props.instituto
     return (
       <Touchable
-        onPress={() => FB.openPage(this.props.instituto.facebookId)}
+        onPress={() => web ? Linking.openURL(web) : FB.openPage(facebookId)}
       >
         <View
           style={styles.row}
         >
           <Image
             style={styles.image}
-            source={{uri: 'https://graph.facebook.com/v2.10/'+this.props.instituto.facebookId+'/picture?width=120&height=120'}}
+            source={{uri: 'https://graph.facebook.com/v2.10/'+facebookId+'/picture?width=120&height=120'}}
           />
           <View
-            style={[styles.text, this.props.instituto.name ? styles.text2 : styles.text1]}
+            style={[styles.text, name ? styles.text2 : styles.text1]}
           >
             <Text
               style={styles.key}
             >
-              {this.props.instituto.key}
+              {key}
             </Text>
-            {this.props.instituto.name ?
+            {name ?
               <Text
-              numberOfLines={1}
-              style={styles.name}
+                numberOfLines={1}
+                style={styles.name}
               >
-              {this.props.instituto.name}
+                {name}
               </Text>
             : undefined}
           </View>

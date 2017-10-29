@@ -3,144 +3,168 @@ export default [
     name: '',
     key: 'Aldea Brasilera',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/aldea-brasilera/',
   },
   {
     name: '',
     key: 'Amigos de la salud',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/esas/',
   },
   {
     name: 'Ayuda Urbana LSM',
     key: 'AU',
     facebook: 'ayudaurbanalsm',
-    facebookId: '437537716354572'
+    facebookId: '437537716354572',
+    web: '',
   },
   {
     name: '',
     key: 'Cerrito',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/cerrito/',
   },
   {
     name: '',
     key: 'Crecer con Jesús',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/amor-sin-fronteras/crecer-con-jesus/',
   },
   {
     name: '',
     key: 'Fábrica de la Alegría',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/fabrica-de-la-alegria/',
   },
   {
     name: 'Facultad de Ciencias Económicas y Administración',
     key: 'IAM FACEA',
     facebook: '193041100764750',
-    facebookId: 'IamFACEA'
+    facebookId: 'IamFACEA',
+    web: '',
   },
   {
     name: '',
     key: 'JAASIEL',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/amor-sin-fronteras/jaasiel/',
   },
   {
     name: 'Jóvenes Adventistas Brindando Esperanza y Salud',
     key: 'JABES',
     facebook: 'institutomisionero.jabes',
-    facebookId: '618596068216601'
+    facebookId: '618596068216601',
+    web: 'http://institutomisionero.com/ministerios/jabes/',
   },
   {
     name: 'Jesús, Esperanza, Sanidad y Salvación',
     key: 'JESS',
     facebook: 'JESS.InstitutoMisionero.FCS.UAP',
-    facebookId: '770017389723392'
+    facebookId: '770017389723392',
+    web: 'http://institutomisionero.com/ministerios/jess/',
   },
   {
     name: '',
     key: 'JEZREEL',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/jezreel/',
   },
   {
     name: '',
     key: 'Huellas',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/huellas/',
   },
   {
     name: '',
     key: 'KERYGMA',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/amor-sin-fronteras/kerygma/',
   },
   {
     name: '',
     key: 'Lanchas Misioneras',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/lanchas-misioneras/',
   },
   {
     name: '',
     key: 'Manos de Paz',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/manos-de-paz/',
   },
   {
     name: 'Misión Adventista Rural',
     key: 'MAR',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/mar/',
   },
   {
     name: 'Ministerio Estudiantil Carcelario Adventista de Paraná',
     key: 'MECAP',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/mecap/',
   },
   {
     name: 'Ministerio Evangelístico de Desarrollo Informático Independiente Adventista',
     key: 'MEDIIA',
     facebook: 'MediiaOrg',
-    facebookId: '1102784209743367'
+    facebookId: '1102784209743367',
+    web: '',
   },
   {
     name: 'Misión Estudiantil Plata',
     key: 'MEP',
     facebook: 'mision.mep',
-    facebookId: '182012301848429'
+    facebookId: '182012301848429',
+    web: '',
   },
   {
     name: 'Facultad de Humanidades',
     key: 'Misión Fe',
     facebook: 'fhecis',
-    facebookId: '187973621538859'
+    facebookId: '187973621538859',
+    web: '',
   },
   {
     name: 'Fruto de Dios',
     key: 'PRI-EL',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/pri-el/',
   },
   {
     name: '',
     key: 'PUIGGARI',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/puiggari/',
   },
   {
     name: '',
     key: 'Sansón',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/sanson/',
   },
   {
     name: 'Sembradores de Esperanza',
     key: 'SDE',
     facebook: 'IM.FCS.UAP',
-    facebookId: '155626277428'
+    facebookId: '155626277428',
+    web: 'http://institutomisionero.com/ministerios/sembradores-de-esperanza/',
   },
 ]
