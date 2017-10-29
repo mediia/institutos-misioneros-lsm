@@ -6,7 +6,7 @@ export default class Toolbar extends React.Component {
     return (
       <View>
         <StatusBar
-          backgroundColor="#ff0000"
+          backgroundColor="#273B7A"
           barStyle="light-content"
         />
         <Text
@@ -21,7 +21,7 @@ export default class Toolbar extends React.Component {
 
 const styles = StyleSheet.create({
   toolbar: {
-    backgroundColor: '#009688',
+    backgroundColor: '#273B7A',
     color: 'white',
     padding: 16,
     paddingTop: 20+16,
